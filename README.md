@@ -19,9 +19,4 @@
    sudo docker compose run --rm scraper --source=links.txt
 
   ```
-Удаление контейнеров и данных:
-  ```bash
-  sudo docker compose down -v
-
- ```
 
