@@ -18,16 +18,8 @@
    ```bash
    sudo docker compose run --rm scraper --source=links.txt
 
-
-## Полезные команды
-- Логи базы:
-  ```bash
-  sudo docker logs trustpilot-db
   ```
 - Удаление контейнеров и данных:
   ```bash
   sudo docker compose down -v
   ```
-  
-  romansitdikov777@gmail.com
-  Zz199108
