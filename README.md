@@ -18,5 +18,3 @@
    ```bash
    sudo docker compose run --rm scraper --source=links.txt
 
-  ```
-
